@@ -45,8 +45,8 @@ We experimented with the following models:
 | Model               | Accuracy |
 |---------------------|----------|
 | Random Forest       | 74%      |
-| CNN                 | 75%      |
-| CNN + LSTM          | 83%      |
+| CNN                 | 80%      |
+| CNN + LSTM          | 82%      |
 | CNN + GRU           | 83%      |
 | **Fine-tuned Wav2Vec2** | **89%** |
 
