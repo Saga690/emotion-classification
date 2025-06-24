@@ -47,7 +47,7 @@ multiprocess==0.70.16
 nest-asyncio==1.6.0
 networkx==3.5
 numba==0.61.2
-numpy==2.2.6
+numpy
 nvidia-cublas-cu12==12.6.4.1
 nvidia-cuda-cupti-cu12==12.6.80
 nvidia-cuda-nvrtc-cu12==12.6.77
