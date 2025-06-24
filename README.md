@@ -70,9 +70,7 @@ Final evaluation on RAVDESS validation set:
 - **Accuracy**: 89%
 - **Weighted F1-Score**: 88.6%
 - **Per-class metrics**: Provided in classification report
-- **Confusion Matrix**:
-
-![Confusion Matrix](confusion_matrix.png)
+- **Confusion Matrix**: Created with classification report
 
 ---
 
