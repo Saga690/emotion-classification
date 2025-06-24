@@ -96,6 +96,7 @@ stack-data==0.6.3
 standard-aifc==3.13.0
 standard-chunk==3.13.0
 standard-sunau==3.13.0
+streamlit==1.35.0
 sympy==1.14.0
 threadpoolctl==3.6.0
 tokenizers==0.21.1
