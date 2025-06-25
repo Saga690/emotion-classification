@@ -4,7 +4,7 @@ import torchaudio
 import numpy as np
 from transformers import Wav2Vec2ForSequenceClassification, Wav2Vec2Processor
 
-MODEL_PATH = "saved_model/emotion_wav2vec2"
+MODEL_PATH = "saved_model_cpu/emotion_wav2vec2"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 processor = Wav2Vec2Processor.from_pretrained(MODEL_PATH)
