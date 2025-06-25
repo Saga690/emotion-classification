@@ -3,6 +3,7 @@
 ## 📝 Project Description
 
 This project focuses on **classifying emotions from audio** using the **RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)** dataset. We implement and compare a variety of classical and deep learning techniques, and finally fine-tune the **Wav2Vec2** model to achieve high performance.
+The project is live on Netlify(https://emotion-classification-ravdess.streamlit.app/).
 
 ---
 
