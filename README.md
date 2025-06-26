@@ -85,6 +85,7 @@ python test_emotion_model.py
 
 ## Folder Structure
 
+```
 ├── data/
 │   ├── speech_actors/
 │   ├── song_actors/
@@ -95,6 +96,7 @@ python test_emotion_model.py
 ├── hello.py
 ├── confusion_matrix.png
 └── README.md
+```
 
 ## Future Work
 
