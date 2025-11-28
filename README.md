@@ -93,7 +93,7 @@ python test_emotion_model.py
 │   └── emotion_wav2vec2/
 ├── test.csv
 ├── test_emotion_model.py
-├── hello.py
+├── app.py
 └── README.md
 ```
 
