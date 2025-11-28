@@ -94,7 +94,6 @@ python test_emotion_model.py
 ├── test.csv
 ├── test_emotion_model.py
 ├── hello.py
-├── confusion_matrix.png
 └── README.md
 ```
 
